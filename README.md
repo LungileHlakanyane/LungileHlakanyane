@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lungilehlakanyane" alt="lungilehlakanyane" /></a> </p>
 
-- 🔭 I’m currently working on **To-do List App**
+- 🔭 I’m currently working on **APS Calculator Web App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Advanced JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://lungilehlakanyane.github.io/portfolio/](https://lungilehlakanyane.github.io/portfolio/)
 
