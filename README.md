@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lungile Hlakanyane</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A hardcore Software Developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="animated-img" alt="animated-img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lungilehlakanyane&label=Profile%20views&color=0e75b6&style=flat" alt="lungilehlakanyane" /> </p>
